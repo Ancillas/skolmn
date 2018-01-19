@@ -1,0 +1,28 @@
+{
+  "name": "skolmn",
+  "version": "1.0.0",
+  "description": "An Alexa skill to cheer along with your favorite Minnesota football team.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ancillas/skolmn.git"
+  },
+  "keywords": [
+    "vikings",
+    "minnesota",
+    "mn",
+    "football",
+    "nfl",
+    "skol",
+    "vikes"
+  ],
+  "author": "Greg Baker",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/Ancillas/skolmn/issues"
+  },
+  "homepage": "https://github.com/Ancillas/skolmn#readme"
+}
